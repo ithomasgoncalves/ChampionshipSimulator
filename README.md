@@ -67,25 +67,3 @@ Para rodar este projeto, você precisará ter o **JDK** instalado em sua máquin
     ```
 
 5.  **Siga as instruções no console** para definir o número de times e seus nomes para iniciar a simulação. Necessário para compilar e executar o código.
-
----
-
-## ⚙️ Como Executar o Projeto
-
-Para rodar este projeto, você precisará ter o **JDK** instalado em sua máquina.
-
-1.  **Clone ou baixe o repositório.**
-
-2.  **Abra um terminal ou prompt de comando** na pasta onde o arquivo `ChampionshipMain.java` está localizado.
-
-3.  **Compile o arquivo `.java` com o seguinte comando:**
-    ```bash
-    javac ChampionshipMain.java
-    ```
-
-4.  **Após a compilação, execute o programa com o comando:**
-    ```bash
-    java ChampionshipMain
-    ```
-
-5.  Siga as instruções no console para definir o número de times e seus nomes para iniciar a simulação.
