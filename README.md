@@ -21,7 +21,7 @@ Este é um projeto simples em Java, executado via console, que simula um campeon
 ## 🛠️ Tecnologias Utilizadas
 
 * **Java:** O projeto é construído inteiramente em Java puro.
-* **JDK** (Java Development Kit):# ⚽ Simulador de Campeonato de Futebol
+* **JDK** (Java Development Kit): ⚽ Simulador de Campeonato de Futebol
 
 Este é um projeto simples em Java, executado via console, que simula um campeonato de futebol de pontos corridos. O programa solicita o número de times, seus nomes, gera resultados aleatórios para as partidas e, ao final, exibe a tabela de classificação completa e ordenada.
 
